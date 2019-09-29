@@ -1,4 +1,4 @@
-# SilentNight
+# Products of Weekend
 
 I have created this module using widget so that weekend products can be added to any cms page from backend and we can:
 
